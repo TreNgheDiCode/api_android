@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "p1": "a",
-    "p2": "b",
-    "p3": "c",
-    "p4": "d"
+    "name": "Ung Qua Chung",
+    "author": "Amee",
+    "release": "01-01-2023",
+    "avatar": "img1.png"
   },
   {
     "id": 2,
-    "p1": "a",
-    "p2": "b",
-    "p3": "c",
-    "p4": "d"
+    "name": "Mot Buoc Yeu Van Dam Dau",
+    "author": "Mr. Siro",
+    "release": "02-02-2023",
+    "avatar": "img2.png"
   }
 ]
