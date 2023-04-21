@@ -1,13 +1,13 @@
 [
   {
-    "id": 1,
+    "musicId": 1,
     "name": "Ung Qua Chung",
     "author": "Amee",
     "release": "01-01-2023",
     "avatar": "img1.png"
   },
   {
-    "id": 2,
+    "musicId": 2,
     "name": "Mot Buoc Yeu Van Dam Dau",
     "author": "Mr. Siro",
     "release": "02-02-2023",
