@@ -4,13 +4,15 @@
     "name": "Ung Qua Chung",
     "author": "Amee",
     "release": "01-01-2023",
-    "avatar": "img1.jpg"
+    "avatar": "img1.jpg",
+    "filename": "ungquachung.mp3"
   },
   {
     "musicId": 2,
     "name": "Mot Buoc Yeu Van Dam Dau",
     "author": "Mr. Siro",
     "release": "02-02-2023",
-    "avatar": "img2.jpg"
+    "avatar": "img2.jpg",
+    "filename": "motbuocyeuvandamdau.mp3"
   }
 ]
